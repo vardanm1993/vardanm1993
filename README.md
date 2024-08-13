@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, Vue and TailwindCss**
 
-- 👯 I’m looking to collaborate on [Custom-Framework](https://github.com/vardanm1993/Custom_Framework)
+- 👯 I’m looking to collaborate on [Custom-Framework](https://github.com/vardanm1993/CUSTOM-PHP-FRAMEWORK) project
 
 - 🤝 I’m looking for help with [Events-Management-API](https://github.com/vardanm1993/Events-Management-API)
 
