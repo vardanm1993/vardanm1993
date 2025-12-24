@@ -57,8 +57,6 @@ I also work with **Vue 3** and modern UI tools when needed.
 
 ## 🚀 Featured Projects
 
-> Tip: rename these to match your best repos (your pinned ones). Keep 3–5 only.
-
 | Project | What it does | Stack |
 |--------|---------------|-------|
 | **Job Board** | Job board platform with auth + CRUD | Laravel, MySQL |
