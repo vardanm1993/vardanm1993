@@ -1,40 +1,46 @@
-<h1 align="center">Hi 👋, I'm Vardan</h1>
-<h3 align="center">Backend Developer | PHP & Laravel | REST APIs | Vue 3</h3>
+<h1 align="center">Vardan Manukyan</h1>
+<p align="center">
+  Backend Developer focused on PHP, Laravel, APIs, and scalable web applications
+</p>
 
 <p align="center">
   <a href="https://github.com/vardanm1993">
-    <img src="https://img.shields.io/github/followers/vardanm1993?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/vardanm1993?label=GitHub&style=social" alt="GitHub followers" />
   </a>
-  <img src="https://img.shields.io/github/stars/vardanm1993?label=Stars" />
-  <img src="https://img.shields.io/github/last-commit/vardanm1993/vardanm1993?label=Last%20Commit" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/vardanmanukyan93/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vardanm1993@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I’m a **Backend Developer** specializing in **PHP & Laravel**, building secure, scalable applications and clean **REST APIs**.  
-I also work with **Vue 3** and modern UI tools when needed.
+I am a backend developer specializing in **PHP** and **Laravel**, with a strong focus on building clean web applications, maintainable backend systems, and well-structured REST APIs.
 
-✅ **Open to Work** — Full-time / Remote / Hybrid  
-🎯 Interested in: Backend, API Development, Laravel Projects
+I also work with **Vue 3**, **TypeScript**, and modern frontend tooling when the product requires a full-stack workflow.
+
+I am currently open to **backend-focused opportunities** including:
+- Laravel development
+- API development
+- database-driven applications
+- Docker-based environments
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-0A0A0A?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-0A0A0A?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
-### Databases & Tools
+### Databases and Infrastructure
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -45,56 +51,51 @@ I also work with **Vue 3** and modern UI tools when needed.
 
 ### Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Selected Projects
 
-| Project | What it does | Stack |
-|--------|---------------|-------|
-| **Job Board** | Job board platform with auth + CRUD | Laravel, MySQL |
-| **Events Management API** | REST API for event management | Laravel, API |
-| **Books Review App** | Rating & reviews app | Laravel |
-| **Livewire Poll App** | Real-time polling | Laravel, Livewire |
+### Livechat Platform
+A modern Laravel-based chat platform built with a scalable application structure, Dockerized local development, CI workflows, and a Vue + TypeScript frontend foundation.
+
+**Stack:** Laravel, PostgreSQL, Redis, Docker, Inertia.js, Vue 3, TypeScript
+
+### Events Management API
+A REST API for managing events, resources, and related workflows with a structured Laravel backend.
+
+**Stack:** Laravel, REST API, MySQL
+
+### Job Board Platform
+A job board application with authentication, CRUD flows, and backend-driven business logic.
+
+**Stack:** Laravel, MySQL
+
+### Books Review App
+A web application for managing book ratings and reviews with clean CRUD structure.
+
+**Stack:** Laravel
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vardanm1993&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardanm1993&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vardanm1993&show_icons=true&hide_border=true" alt="GitHub stats" />
 </p>
 
 ---
 
-## 📫 Contact
+## Contact
 
-<p align="center">
-  <a href="mailto:vardanm1993@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/vardanmanukyan93/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p>
+  <a href="mailto:vardanm1993@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/vardanmanukyan93/">LinkedIn</a> ·
+  <a href="https://github.com/vardanm1993">GitHub</a>
 </p>
-
----
-
-### ✅ What I'm looking for
-- Backend Developer (Laravel / PHP)
-- REST API development
-- Database-driven applications
-- Dockerized environments
-
-⭐ If you like my work, feel free to follow or connect!
