@@ -4,14 +4,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vardanm1993">
-    <img src="https://img.shields.io/github/followers/vardanm1993?label=GitHub&style=social" alt="GitHub followers" />
-  </a>
   <a href="https://www.linkedin.com/in/vardanmanukyan93/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:vardanm1993@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/vardanm1993">
+    <img src="https://img.shields.io/github/followers/vardanm1993?label=GitHub&style=social" alt="GitHub followers" />
   </a>
 </p>
 
@@ -21,13 +21,9 @@
 
 I am a backend developer specializing in **PHP** and **Laravel**, with a strong focus on building clean web applications, maintainable backend systems, and well-structured REST APIs.
 
-I also work with **Vue 3**, **TypeScript**, and modern frontend tooling when the product requires a full-stack workflow.
+I also work with **Vue 3**, **TypeScript**, and modern frontend tooling when a project requires a full-stack workflow.
 
-I am currently open to **backend-focused opportunities** including:
-- Laravel development
-- API development
-- database-driven applications
-- Docker-based environments
+I am currently open to backend-focused opportunities involving Laravel development, API development, database-driven applications, and Docker-based environments.
 
 ---
 
@@ -62,13 +58,18 @@ I am currently open to **backend-focused opportunities** including:
 
 ## Selected Projects
 
-### Livechat Platform
-A modern Laravel-based chat platform built with a scalable application structure, Dockerized local development, CI workflows, and a Vue + TypeScript frontend foundation.
+### [Livechat Platform](https://github.com/vardanm1993/livechat-platform)
+A modern chat platform under active development, built with Laravel and a scalable application architecture. The project includes Dockerized local development, CI workflows, and a frontend foundation powered by Inertia, Vue 3, and TypeScript.
 
 **Stack:** Laravel, PostgreSQL, Redis, Docker, Inertia.js, Vue 3, TypeScript
 
+### [Laravel Vue SPA Admin](https://github.com/vardanm1993/laravel-vue-spa-admin)
+A modern SPA admin panel built with Laravel and Vue, focused on clean structure, maintainable frontend workflows, and practical backend integration.
+
+**Stack:** Laravel, Vue 3, Vue-Router, Pinia and JavaScript, MySQL
+
 ### Events Management API
-A REST API for managing events, resources, and related workflows with a structured Laravel backend.
+A REST API for managing events and related workflows with a structured Laravel backend.
 
 **Stack:** Laravel, REST API, MySQL
 
@@ -78,17 +79,9 @@ A job board application with authentication, CRUD flows, and backend-driven busi
 **Stack:** Laravel, MySQL
 
 ### Books Review App
-A web application for managing book ratings and reviews with clean CRUD structure.
+A web application for managing book ratings and reviews with a clean CRUD structure.
 
 **Stack:** Laravel
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vardanm1993&show_icons=true&hide_border=true" alt="GitHub stats" />
-</p>
 
 ---
 
