@@ -14,17 +14,20 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/vardanmanukyan93/">
-  <img src="https://img.shields.io/badge/LinkedIn-Vardan%20Manukyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:vardanm1993@gmail.com">
-  <img src="https://img.shields.io/badge/Email-vardanm1993%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/vardanm1993">
-  <img src="https://img.shields.io/badge/GitHub-vardanm1993-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/vardanmanukyan93/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="42" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:vardanm1993@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="42" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vardanm1993">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="42" alt="GitHub" />
+  </a>
+</p>
 
-<br />
 <br />
 
 <img src="https://komarev.com/ghpvc/?username=vardanm1993&label=Profile%20Views&color=F05340&style=flat-square" alt="Profile views" />
@@ -46,49 +49,49 @@ I also work with **Vue 3**, **TypeScript**, **Inertia.js**, and modern frontend 
 ### Backend
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" alt="Composer" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
-  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=111827" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue 3" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" alt="Inertia.js" />
+  <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=111827" alt="Pinia" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
 ### Quality & Workflow
 
 <p>
-  <img src="https://img.shields.io/badge/Pest-5965E0?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHPStan-4F5D95?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Larastan-111827?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel%20Pint-F05340?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pest-5965E0?style=flat-square&logo=php&logoColor=white" alt="Pest" />
+  <img src="https://img.shields.io/badge/PHPStan-4F5D95?style=flat-square&logo=php&logoColor=white" alt="PHPStan" />
+  <img src="https://img.shields.io/badge/Larastan-111827?style=flat-square&logo=laravel&logoColor=white" alt="Larastan" />
+  <img src="https://img.shields.io/badge/Laravel%20Pint-F05340?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Pint" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 ### Infrastructure
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel%20Sail-F05340?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Laravel%20Sail-F05340?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Sail" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
@@ -114,12 +117,12 @@ I also work with **Vue 3**, **TypeScript**, **Inertia.js**, and modern frontend 
         <li>Prepared for realtime, messaging, media, and team workflows</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Laravel%2013-F05340?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel%2013-F05340?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 13" />
+        <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue 3" />
+        <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" alt="Inertia.js" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -140,15 +143,15 @@ I also work with **Vue 3**, **TypeScript**, **Inertia.js**, and modern frontend 
         <li>Profile, password reset, email verification, avatar, and admin user flows</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Laravel%2012-F05340?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=111827" />
-        <img src="https://img.shields.io/badge/Vue%20Router-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TailwindCSS%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/VeeValidate-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Yup-111827?style=flat-square&logo=javascript&logoColor=white" />
-        <img src="https://img.shields.io/badge/i18n-3178C6?style=flat-square&logo=googletranslate&logoColor=white" />
-        <img src="https://img.shields.io/badge/RBAC-0F172A?style=flat-square&logo=shield&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel%2012-F05340?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 12" />
+        <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue 3" />
+        <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=111827" alt="Pinia" />
+        <img src="https://img.shields.io/badge/Vue%20Router-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue Router" />
+        <img src="https://img.shields.io/badge/TailwindCSS%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4" />
+        <img src="https://img.shields.io/badge/VeeValidate-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="VeeValidate" />
+        <img src="https://img.shields.io/badge/Yup-111827?style=flat-square&logo=javascript&logoColor=white" alt="Yup" />
+        <img src="https://img.shields.io/badge/i18n-3178C6?style=flat-square&logo=googletranslate&logoColor=white" alt="i18n" />
+        <img src="https://img.shields.io/badge/RBAC-0F172A?style=flat-square&logo=shield&logoColor=white" alt="RBAC" />
       </p>
     </td>
   </tr>
@@ -171,13 +174,13 @@ I also work with **Vue 3**, **TypeScript**, **Inertia.js**, and modern frontend 
         <li>Framework-core thinking beyond standard Laravel application work</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framework%20Core-111827?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/DI%20Container-F05340?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Routing-0F172A?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Events-111827?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" />
-        <img src="https://img.shields.io/badge/Packagist-F28D1A?style=flat-square&logo=packagist&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/Framework%20Core-111827?style=flat-square&logo=php&logoColor=white" alt="Framework Core" />
+        <img src="https://img.shields.io/badge/DI%20Container-F05340?style=flat-square&logo=php&logoColor=white" alt="DI Container" />
+        <img src="https://img.shields.io/badge/Routing-0F172A?style=flat-square&logo=php&logoColor=white" alt="Routing" />
+        <img src="https://img.shields.io/badge/Events-111827?style=flat-square&logo=php&logoColor=white" alt="Events" />
+        <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" alt="Composer" />
+        <img src="https://img.shields.io/badge/Packagist-F28D1A?style=flat-square&logo=packagist&logoColor=white" alt="Packagist" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -198,12 +201,12 @@ I also work with **Vue 3**, **TypeScript**, **Inertia.js**, and modern frontend 
         <li>Docker Compose and Vite-based local workflow</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Laravel%2010-F05340?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Blade-F05340?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel%2010-F05340?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 10" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/Blade-F05340?style=flat-square&logo=laravel&logoColor=white" alt="Blade" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
       </p>
     </td>
   </tr>
@@ -232,21 +235,25 @@ I also work with **Vue 3**, **TypeScript**, **Inertia.js**, and modern frontend 
 
 <div align="center">
 
-<p>
-  <strong>Open to backend-focused Laravel roles, API development, and full-stack Laravel/Vue projects.</strong>
-</p>
+<h3 align="center">Available for Backend Laravel, REST API, and Full-Stack Laravel/Vue Projects</h3>
 
-<a href="mailto:vardanm1993@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/vardanmanukyan93/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/vardanm1993">
-  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
 
 <br />
+
+<p>
+  <a href="mailto:vardanm1993@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="42" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vardanmanukyan93/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="42" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vardanm1993">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="42" alt="GitHub" />
+  </a>
+</p>
+
 <br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:F05340,100:0F172A&height=120&section=footer" alt="Footer" />
