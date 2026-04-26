@@ -30,8 +30,6 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=vardanm1993&label=Profile%20Views&color=F05340&style=flat-square" alt="Profile views" />
-
 </div>
 
 ---
