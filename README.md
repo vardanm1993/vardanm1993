@@ -1,94 +1,254 @@
-<h1 align="center">Vardan Manukyan</h1>
-<p align="center">
-  Backend Developer focused on PHP, Laravel, APIs, and scalable web applications
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:F05340,100:111827&height=190&section=header&text=Vardan%20Manukyan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="Vardan Manukyan" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=F05340&center=true&vCenter=true&width=760&lines=Backend+Developer;PHP+%C2%B7+Laravel+%C2%B7+REST+APIs;Vue+3+%C2%B7+TypeScript+%C2%B7+Inertia.js;Clean+Architecture+%C2%B7+Docker+%C2%B7+CI%2FCD" alt="Typing SVG" />
+
+<br />
+
+<p>
+  <strong>Backend Developer focused on PHP, Laravel, REST APIs, and scalable web applications.</strong>
+  <br />
+  Building clean backend systems, full-stack Laravel/Vue applications, and production-ready developer workflows.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vardanmanukyan93/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vardanm1993@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/vardanm1993">
-    <img src="https://img.shields.io/github/followers/vardanm1993?label=GitHub&style=social" alt="GitHub followers" />
-  </a>
-</p>
+<br />
+
+<a href="https://www.linkedin.com/in/vardanmanukyan93/">
+  <img src="https://img.shields.io/badge/LinkedIn-Vardan%20Manukyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:vardanm1993@gmail.com">
+  <img src="https://img.shields.io/badge/Email-vardanm1993%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/vardanm1993">
+  <img src="https://img.shields.io/badge/GitHub-vardanm1993-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=vardanm1993&label=Profile%20Views&color=F05340&style=flat-square" alt="Profile views" />
+
+</div>
 
 ---
 
-## About Me
+## About
 
-I am a backend developer specializing in **PHP** and **Laravel**, with a strong focus on building clean web applications, maintainable backend systems, and well-structured REST APIs.
+I am a backend developer specializing in **PHP** and **Laravel**, focused on building maintainable backend systems, structured REST APIs, database-driven applications, and scalable web platforms.
 
-I also work with **Vue 3**, **TypeScript**, and modern frontend tooling when a project requires a full-stack workflow.
-
-I am currently open to backend-focused opportunities involving Laravel development, API development, database-driven applications, and Docker-based environments.
+I also work with **Vue 3**, **TypeScript**, **Inertia.js**, and modern frontend tooling when a project requires a full-stack Laravel workflow.
 
 ---
 
 ## Tech Stack
 
 ### Backend
+
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-0A0A0A?style=flat-square&logo=postman&logoColor=white" />
-</p>
-
-### Databases and Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" />
 </p>
 
 ### Frontend
+
 <p>
-  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=111827" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+### Quality & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Pest-5965E0?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHPStan-4F5D95?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Larastan-111827?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel%20Pint-F05340?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+### Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel%20Sail-F05340?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## Selected Projects
+## Featured Projects
 
-### [Livechat Platform](https://github.com/vardanm1993/livechat-platform)
-A modern chat platform under active development, built with Laravel and a scalable application architecture. The project includes Dockerized local development, CI workflows, and a frontend foundation powered by Inertia, Vue 3, and TypeScript.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/vardanm1993/livechat-platform">Livechat Platform</a>
+      </h3>
+      <p>
+        Professional live chat platform focused on modular Laravel architecture, real-time communication foundations, and scalable product structure.
+      </p>
+      <p>
+        <strong>Highlights</strong>
+      </p>
+      <ul>
+        <li>Modular backend structure for a production-grade chat platform</li>
+        <li>Laravel-first full-stack architecture</li>
+        <li>Docker-based local development direction</li>
+        <li>Prepared for realtime, messaging, media, and team workflows</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel%2013-F05340?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/vardanm1993/laravel-vue-spa-admin">Laravel Vue SPA Admin</a>
+      </h3>
+      <p>
+        Laravel 12 + Vue 3 admin panel with SPA authentication, RBAC, multilingual UI, reusable form architecture, and clean frontend workflows.
+      </p>
+      <p>
+        <strong>Highlights</strong>
+      </p>
+      <ul>
+        <li>SPA session authentication flow with secure backend/frontend integration</li>
+        <li>Role and permission system with Spatie Permission</li>
+        <li>EN / RU / AM localization with backend language sync</li>
+        <li>Reusable SmartForm layer with validation mapping</li>
+        <li>Profile, password reset, email verification, avatar, and admin user flows</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel%2012-F05340?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=111827" />
+        <img src="https://img.shields.io/badge/Vue%20Router-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TailwindCSS%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/VeeValidate-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Yup-111827?style=flat-square&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/badge/i18n-3178C6?style=flat-square&logo=googletranslate&logoColor=white" />
+        <img src="https://img.shields.io/badge/RBAC-0F172A?style=flat-square&logo=shield&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/vardanm1993/APEX-Core">APEX Core</a>
+      </h3>
+      <p>
+        Core package for the APEX PHP framework, designed as a lightweight foundation for framework-level and standalone PHP applications.
+      </p>
+      <p>
+        <strong>Highlights</strong>
+      </p>
+      <ul>
+        <li>Service container / dependency injection foundation</li>
+        <li>Routing logic and framework lifecycle handling</li>
+        <li>Event dispatcher architecture</li>
+        <li>Composer package structure with Packagist installation</li>
+        <li>Framework-core thinking beyond standard Laravel application work</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framework%20Core-111827?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/DI%20Container-F05340?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Routing-0F172A?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Events-111827?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" />
+        <img src="https://img.shields.io/badge/Packagist-F28D1A?style=flat-square&logo=packagist&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/vardanm1993/Job-Board">Job Board</a>
+      </h3>
+      <p>
+        Laravel 10 job board application focused on classic Laravel application structure, authentication, CRUD workflows, and database-backed features.
+      </p>
+      <p>
+        <strong>Highlights</strong>
+      </p>
+      <ul>
+        <li>Job listing and application-style business flow</li>
+        <li>Laravel MVC structure with Blade views</li>
+        <li>Authentication-oriented application foundation</li>
+        <li>Database-backed CRUD functionality</li>
+        <li>Docker Compose and Vite-based local workflow</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel%2010-F05340?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blade-F05340?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-**Stack:** Laravel, PostgreSQL, Redis, Docker, Inertia.js, Vue 3, TypeScript
+---
 
-### [Laravel Vue SPA Admin](https://github.com/vardanm1993/laravel-vue-spa-admin)
-A modern SPA admin panel built with Laravel and Vue, focused on clean structure, maintainable frontend workflows, and practical backend integration.
+## GitHub Overview
 
-**Stack:** Laravel, Vue 3, Vue-Router, Pinia and JavaScript, MySQL
+<div align="center">
 
-### Events Management API
-A REST API for managing events and related workflows with a structured Laravel backend.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vardanm1993&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" alt="GitHub Stats" />
 
-**Stack:** Laravel, REST API, MySQL
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardanm1993&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-### Job Board Platform
-A job board application with authentication, CRUD flows, and backend-driven business logic.
+<br />
+<br />
 
-**Stack:** Laravel, MySQL
+<img src="https://streak-stats.demolab.com?user=vardanm1993&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-### Books Review App
-A web application for managing book ratings and reviews with a clean CRUD structure.
-
-**Stack:** Laravel
+</div>
 
 ---
 
 ## Contact
 
+<div align="center">
+
 <p>
-  <a href="mailto:vardanm1993@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/vardanmanukyan93/">LinkedIn</a> ·
-  <a href="https://github.com/vardanm1993">GitHub</a>
+  <strong>Open to backend-focused Laravel roles, API development, and full-stack Laravel/Vue projects.</strong>
 </p>
+
+<a href="mailto:vardanm1993@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/vardanmanukyan93/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/vardanm1993">
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:F05340,100:0F172A&height=120&section=footer" alt="Footer" />
+
+</div>
