@@ -216,14 +216,25 @@ I also work with **Vue 3**, **TypeScript**, **Inertia.js**, and modern frontend 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vardanm1993&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" alt="GitHub Stats" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=vardanm1993&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github&amp;custom_title=GitHub%20Stats&amp;bg_color=0D1117&amp;title_color=F05340&amp;text_color=C9D1D9&amp;icon_color=F05340&amp;border_radius=12&amp;cache_seconds=21600"
+    alt="Vardan Manukyan GitHub statistics card"
+  />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardanm1993&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardanm1993&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;custom_title=Most%20Used%20Languages&amp;bg_color=0D1117&amp;title_color=F05340&amp;text_color=C9D1D9&amp;border_radius=12&amp;size_weight=0.5&amp;count_weight=0.5&amp;cache_seconds=21600"
+    alt="Vardan Manukyan most used programming languages card"
+  />
 
-<br />
-<br />
+  <br />
+  <br />
 
-<img src="https://streak-stats.demolab.com?user=vardanm1993&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=vardanm1993&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=F05340&amp;fire=F97316&amp;currStreakLabel=F05340&amp;sideLabels=C9D1D9&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=8B949E"
+    alt="Vardan Manukyan GitHub contribution streak card"
+  />
 
 </div>
 
